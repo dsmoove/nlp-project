@@ -1,7 +1,7 @@
 # Project 3: Multi-Classification
 ### Authors: Alex Zieky, Ben Spilsbury, and David Shin
 
-![img](./images/twitter.png)
+![img](./images/twitter.png.png)
 
 ## Overview
 
