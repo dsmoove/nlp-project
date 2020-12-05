@@ -39,8 +39,9 @@ WE evaluated our models for both Accuracy and F1 scores. We looked into Accuracy
 
 For further development of our models, we can continue to branch out into other brands. It also looks like a majority of this data was from a particular event during SXSW, so taking Tweets from a larger span of time may help to improve our model accuracy. 
 
-``
+
 ## Navigation
+``
 ├── README.md
 ├── images
 │   ├── twitter.png
