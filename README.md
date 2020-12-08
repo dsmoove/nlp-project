@@ -32,16 +32,14 @@ In our notebook, we created wordclouds to show the top words in both the Positiv
 We also identified top words in the dataset for each classification of sentiment.
 
 ![img](./images/postweet.png)
-![img](./images/negtweet.png)
+
 
 We then went more in detail and identified the top words in the dataset by brand and by sentiment.
 
 ![img](./images/posapple.png)
-![img](./images/negapple.png)
-![img](./images/neutapple.png)
+
 ![img](./images/posgoogle.png)
-![img](./images/neggoogle.png)
-![img](./images/neutgoogle.png)
+
 
 ### Models
 
