@@ -41,6 +41,20 @@ For further development of our models, we can continue to branch out into other 
 
 ```
 ## Navigation
-├── README.md
 ├── images
-│   ├── twitter.png
+│   ├── applematrix.png
+│   ├── fullmatrix.png
+│   ├── googlematrix.jpg
+│   ├── negapple.png 
+│   ├── neggoogle.png
+│   ├── negtweet.png
+│   ├── negwordcloud.png
+│   ├── neutapple.png
+│   ├── neutgoogle.png
+│   ├── neuttweet.png
+│   ├── posapple.png
+│   ├── posgoogle.png
+│   ├── postweet.png
+│   └── twitter.png
+└── Tweet_NLP_Analysis.ipynb
+
