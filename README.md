@@ -5,6 +5,7 @@
 
 ## Overview
 
+In order to further expand and develop our brand and its products, we believe it is crucial to analyze user feedback on social media outlets such as Twitter. 
 
 ## Business Problem
 
